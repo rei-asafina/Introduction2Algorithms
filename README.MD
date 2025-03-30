@@ -7,8 +7,8 @@
 - 正確さについては注意を払っていますが、誤りがある可能性があります。
 
 ## 進捗
-- [ ] 1 The Role of Algorithms in Computing 5
-- [ ] 2 Getting Started 17
+- [x] 1 The Role of Algorithms in Computing 5
+- [x] 2 Getting Started 17
 - [ ] 3 Characterizing Running Times 49
 - [ ] 4 Divide-and-Conquer 76
 - [ ] 5 Probabilistic Analysis and Randomized Algorithms 126
